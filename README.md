@@ -7,8 +7,14 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<<<<<<< HEAD
   <a href="https://saraguanais.github.io/ProjetoRocket/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/file/lQIGfGixa5FrpiBa1eJcBl/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10%3A620&mode=design&t=Oc2VGprwFHDmC9km-1">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+=======
+  <a href="saraguanais.github.io/ProjetoRocket">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+>>>>>>> b71813fc3243cdf2b973323aa80eb8c8fe357b0d
 </p>
 
 <p align="center">
